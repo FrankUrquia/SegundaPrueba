@@ -1,2 +1,2 @@
-# SegundaPrueba
-Mi segundo repositorio de prueba en git hub
+Este es una segunda prueba de clonacion de repositorio
+
